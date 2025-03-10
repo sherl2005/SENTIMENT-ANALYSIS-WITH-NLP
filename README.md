@@ -5,7 +5,7 @@
 - **Company**: CODTECH IT SOLUTIONS  
 - **Name**: SHERLIN MARY N  
 - **Intern ID**: CT08NKX  
-- **Domain**: MACHINE LEARNING & NLP  
+- **Domain**: MACHINE LEARNING 
 - **Duration**: 4 WEEKS  
 - **Mentor**: NEELA SANTOSH KUMAR  
 
