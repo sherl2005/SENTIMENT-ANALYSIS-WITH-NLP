@@ -31,11 +31,9 @@ This repository contains the implementation of **Sentiment Analysis** using **TF
 
 Below are some visualizations from the implementation:
 
-![TF-IDF Features](https://github.com/user-attachments/assets/1a2b3c4d-9b98-432b-8c19-fd321e9dc2ac)
+![Image](https://github.com/user-attachments/assets/651f889f-65f3-4eee-90e7-bf137000091d)
 
-![Confusion Matrix](https://github.com/user-attachments/assets/5e6f7g8h-0a1e-4141-8219-7e96b8aa11d0)
-
-![Sentiment Distribution](https://github.com/user-attachments/assets/9i0j1k2l-2505-48ff-8c86-d48d3037ea95)
+![Image](https://github.com/user-attachments/assets/63c829e8-feac-4168-92d7-6091a6fde5a7)
 
 ## How to Run
 
